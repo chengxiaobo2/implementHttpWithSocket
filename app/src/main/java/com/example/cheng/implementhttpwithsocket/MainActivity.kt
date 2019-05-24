@@ -11,7 +11,7 @@ import java.io.*
 import java.net.Socket
 
 /**
- *  用Socket实现Http请求
+ *  用socket发http请求，并收到回复。
  * @author chengxiaobo
  * @time 2019/5/24 21:50
  */
